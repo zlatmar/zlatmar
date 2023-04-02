@@ -30,6 +30,7 @@ I am a Software developer with expertise in both frontend and backend developmen
 <br>   
  
 - **Back-End Development**:
+
    ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
    ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
    

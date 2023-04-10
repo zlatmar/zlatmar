@@ -1,13 +1,12 @@
 ### Hi there 👋, my name is Zlatoslav
-#### I am a Software Developer
+<!-- #### I am a Software Developer -->
 <!-- ![I am a Software Developer](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif) -->
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="450px" alt= “” width="value" height="value">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="150px" alt= “” width="value" height="value">
 
 
 I am a Software developer with expertise in both frontend and backend development. I really enjoy developing GIS applications or any kind of geospatial software.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
 
 <p align="center">
 
@@ -29,7 +28,19 @@ I am a Software developer with expertise in both frontend and backend developmen
    ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
    ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
    
-<br>   
+<br>  
+
+- **GIS**:
+
+   ![ArcGISJS](https://img.shields.io/badge/ESRI-ArcGIS%20Maps%20SDK%20for%20JavaScript-brightgreen)
+
+   ![ArcGISPython](https://img.shields.io/badge/ESRI-ArcGIS%20API%20for%20Python-orange)
+
+   ![ArcGISREST](https://img.shields.io/badge/ESRI-ArcGIS%20REST%20API-yellowgreen)
+
+   ![OpenLayers](https://img.shields.io/badge/OL-OpenLayers-blue)
+   
+<br>
  
 - **Back-End Development**:
 
@@ -41,8 +52,9 @@ I am a Software developer with expertise in both frontend and backend developmen
 - **Databases**:   
    ![PostgreSQl](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
    ![SqlLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-   
-<br>
+
+   <br>   
+ 
 
 ## <b> Let's Talk..!</b><img src="https://raw.githubusercontent.com/zlatmar/zlatmar/main/handshake.gif" width ="80">
 <br>

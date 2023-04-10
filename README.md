@@ -16,7 +16,6 @@ I am a Software developer with expertise in both frontend and backend developmen
     ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
     ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<br>   
     
 - **Front-End Development**:
 
@@ -28,7 +27,6 @@ I am a Software developer with expertise in both frontend and backend developmen
    ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
    ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
    
-<br>  
 
 - **GIS**:
 
@@ -40,7 +38,6 @@ I am a Software developer with expertise in both frontend and backend developmen
 
    ![OpenLayers](https://img.shields.io/badge/OL-OpenLayers-blue)
    
-<br>
  
 - **Back-End Development**:
 
@@ -56,7 +53,7 @@ I am a Software developer with expertise in both frontend and backend developmen
    <br>   
  
 
-## <b> Let's Talk..!</b><img src="https://raw.githubusercontent.com/zlatmar/zlatmar/main/handshake.gif" width ="80">
+## <b> Let's Talk..!</b> <img src="https://raw.githubusercontent.com/zlatmar/zlatmar/main/handshake.gif" width ="80">
 <br>
 <div align='left'>
 

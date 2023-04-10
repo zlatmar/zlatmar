@@ -45,7 +45,6 @@ I am a Software developer with expertise in both frontend and backend developmen
    ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
    ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
    
-<br>   
  
 - **Databases**:   
    ![PostgreSQl](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)

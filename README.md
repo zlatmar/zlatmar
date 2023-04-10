@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is Zlatoslav
 <!-- #### I am a Software Developer -->
 <!-- ![I am a Software Developer](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif) -->
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="150px" alt= “” width="value" height="value">
-
+<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="200px" alt= “” width="value" height="value">
 
 I am a Software developer with expertise in both frontend and backend development. I really enjoy developing GIS applications or any kind of geospatial software.
 
